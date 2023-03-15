@@ -1,3 +1,6 @@
+![programming](https://user-images.githubusercontent.com/97841717/225414912-705f7f80-3b01-4c43-8b53-3ea6feb41c29.gif)
+
+
 <h1 align="center">Hi 👋, I'm Kavya Reddy Vutukuri</h1>
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
 
