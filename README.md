@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/97841717/225416886-2692361c-1fc6-465d-949a-bdf1066bb791.gif" width="1200" height="400"  />
 
 
-<h1 align="center">Hello..! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Kavya Reddy Vutukuri</h1>
+<h1 align="center">Hi! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Kavya Reddy Vutukuri</h1>
 
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
 
