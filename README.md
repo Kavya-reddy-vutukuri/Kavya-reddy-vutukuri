@@ -1,5 +1,5 @@
+<center><img src="[https://www.computerhope.com/cdn/media/logo-200-gray.png](https://user-images.githubusercontent.com/97841717/225414912-705f7f80-3b01-4c43-8b53-3ea6feb41c29.gif)" alt="what image shows" height="150" width="200"></center>
 
-<img src="https://user-images.githubusercontent.com/97841717/225414912-705f7f80-3b01-4c43-8b53-3ea6feb41c29.gif" class="centerImage" alt="CH Logo" height="1050" width="716">
 <h1 align="center">Hi 👋, I'm Kavya Reddy Vutukuri</h1>
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
 
