@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavya-reddy-vutukuri&show_icons=true&locale=en&theme=radical" alt="kavya-reddy-vutukuri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavya-reddy-vutukuri&theme=highcontrast" alt="kavya-reddy-vutukuri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavya-reddy-vutukuri&theme=radical" alt="kavya-reddy-vutukuri" /></p>
 
