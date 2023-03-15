@@ -1,6 +1,8 @@
-<center><img src="https://user-images.githubusercontent.com/97841717/225414912-705f7f80-3b01-4c43-8b53-3ea6feb41c29.gif" alt="Me" height="150" width="200"></center>
+<img src="https://user-images.githubusercontent.com/97841717/225416886-2692361c-1fc6-465d-949a-bdf1066bb791.gif" width="1200" height="400"  />
 
-<h1 align="center">Hi 👋, I'm Kavya Reddy Vutukuri</h1>
+
+<h1 align="center">Hello..! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Kavya Reddy Vutukuri</h1>
+
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya-reddy-vutukuri&label=Profile%20views&color=0e75b6&style=flat" alt="kavya-reddy-vutukuri" /> </p>
