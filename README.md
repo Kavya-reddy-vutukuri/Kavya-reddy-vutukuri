@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vutukuri.kavyareddy@gmail.com, vv3098@srmist.edu.in**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/drive/u/1/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nSZ6GhU2zdQHaYw0bW_2Yt5n8mJs2Ztl/view?usp=share_link](https://drive.google.com/file/d/1nSZ6GhU2zdQHaYw0bW_2Yt5n8mJs2Ztl/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
