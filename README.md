@@ -7,32 +7,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya-reddy-vutukuri&label=Profile%20views&color=0e75b6&style=flat" alt="kavya-reddy-vutukuri" /> </p>
 
-- 🔭 I’m currently working on [Smart Parking System](https://github.com/Kavya-reddy-vutukuri/Smart-Parking-System)
+# 💫 About Me:
+🔭 I’m currently working on Smart Parking System<br>👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Data Structures & Algorithm<br>👨‍💻 All of my projects are available at https://github.com/Kavya-reddy-vutukuri<br>📫 How to reach me vutukuri.kavyareddy@gmail.com, vv3069@srmist.edu.in<br>📄 Know about my experiences https://drive.google.com/file/d/1nSZ6GhU2zdQHaYw0bW_2Yt5n8mJs2Ztl/view?usp=drive_link
 
-- 🌱 I’m currently learning **Machine Learning & Full Stack Development**
 
-- 👯 I’m looking to collaborate on [Rock-Paper-Scissors Game](https://github.com/Kavya-reddy-vutukuri/Rock-Paper-Scissiors-Game)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kavya-reddy-vutukuri&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kavya-reddy-vutukuri&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-reddy-vutukuri&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kavya-reddy-vutukuri](https://github.com/Kavya-reddy-vutukuri)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kavya-reddy-vutukuri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **vutukuri.kavyareddy@gmail.com, vv3098@srmist.edu.in**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nSZ6GhU2zdQHaYw0bW_2Yt5n8mJs2Ztl/view?usp=share_link](https://drive.google.com/file/d/1nSZ6GhU2zdQHaYw0bW_2Yt5n8mJs2Ztl/view?usp=share_link)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kavya-reddy-vutukuri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/kavya-reddy-vutukuri-793918237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kavya-reddy-vutukuri-793918237/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kavya_vutukuri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kavya_vutukuri" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kavyareddy_261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavyareddy_261" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vv3098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vv3098" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Kavya-reddy-vutukuri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavya-reddy-vutukuri&show_icons=true&locale=en&layout=compact&theme=radical" alt="kavya-reddy-vutukuri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavya-reddy-vutukuri&show_icons=true&locale=en&theme=radical" alt="kavya-reddy-vutukuri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavya-reddy-vutukuri&theme=radical" alt="kavya-reddy-vutukuri" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
